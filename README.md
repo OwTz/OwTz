@@ -1,8 +1,8 @@
-<h1 align="center">⚠ Sérgio / Owtz</h1>
+<h1 align="center">⚠ Sérgio / Owtz </h1>
 
 ###
 
-<p align="left">🎯 Desenvolvedor, stack principal em **Java + Spring Boot**, atuo na criação de APIs REST robustas e escaláveis.  <br>🚀 Utilizo **Docker e práticas DevOps** para automação, integração contínua e entrega eficiente.  <br>💻 No frontend, desenvolvo interfaces responsivas com **JavaScript, Bootstrap e jQuery**, focadas na experiência do usuário..</p>
+<p align="left">🎯 Desenvolvedor web Full-stack.</p>
 
 ###
 
